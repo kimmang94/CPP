@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main_04()
 {
 	const int GREAT_VICTORY_SALSU = 612;
 	const int GREATE_VICTORY_GWIJU = 1019;

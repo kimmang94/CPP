@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main_02()
 {
 	int one = 1;
 	int two = 2;
